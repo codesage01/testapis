@@ -1,1 +1,2 @@
-testapis/settings.py
+    # .gitignore
+    .env
